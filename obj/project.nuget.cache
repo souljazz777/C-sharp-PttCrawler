@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mkt5V+VvOpnac9wFjrIws4R9Eb04JoTCD1CN6oF7JjY1SVm79+BQGXTwaG3tUf6B4RCdmTPy1H/xBeAvPkuGog==",
+  "success": true,
+  "projectFilePath": "\\\\Mac\\Home\\Desktop\\C#練習\\C#練習題\\Console2\\Console2\\Console2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yuanjiaxiang\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512"
+  ],
+  "logs": []
+}
